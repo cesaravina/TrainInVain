@@ -1,0 +1,13 @@
+.container {
+	color: red;
+}
+
+.jumbotron {
+	background-color: black !important; 
+	color: black;
+	font-color: black;
+	background-image: url("https://a3-images.myspacecdn.com/images03/3/12296f9686f34b5ca73970b21bc1d1ea/300x300.jpg");
+	background-repeat: no-repeat;
+    background-position: center; 
+}
+
